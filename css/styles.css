@@ -836,7 +836,7 @@ margin-bottom: 24px;
     cursor: pointer; 
 }
 
-.modal-form-checkbox:checked + .user-privacy .checkbox-prop {
+.modal-form-checkbox:checked +  .checkbox-prop {
 background-color: var(--modal);
 border: none;
 fill: var(--logo-light)
